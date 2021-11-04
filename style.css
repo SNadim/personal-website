@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.top_banner .half_width h2{
+    color: rgb(246, 24, 61);
+}
+.half_width{
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+}
+.half_width img{
+    width: 100%;
+}
+.half_width h3{
+    padding-top: 35%;
+}
+.half_width p{
+    padding-bottom: 20px;
+}
+.top_banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 800px;
+    padding-bottom: 200px;
+}
+.link_btn{
+    padding: 10px 20px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#ef473a,#cb2d3e);
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.my_latest_work h3{
+    text-align: center;
+}
+.one_third_portion{
+    width: 25%;
+    padding: 4%;
+    float: left;
+}
+.one_third_portion img{
+    width: 100%;
+}
+#margin_left{
+    margin-left: 1%;
+}
+.my_latest_work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+
+}
