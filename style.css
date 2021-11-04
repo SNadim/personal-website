@@ -2,6 +2,9 @@ body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+p{
+    color : black;
+}
 .top_banner .half_width h2{
     color: rgb(246, 24, 61);
 }
@@ -57,5 +60,23 @@ section{
 .my_latest_work{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
+    height: 400px;
 
+}
+.client_say h3{
+    padding: 100px 0px 40px 0px;
+
+}
+.client_say{
+    text-align: center;
+    height: 500px;
+}
+#padding_up_down{
+    padding: 20px 0px;
+
+}
+
+.bottom_frag p{
+    text-align: center;
+    font-size: 12px;
 }
