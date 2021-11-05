@@ -68,6 +68,8 @@ section{
 
 }
 .client_say{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
     text-align: center;
     height: 500px;
 }
